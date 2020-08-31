@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I code Minecraft cheats because I'm retarded. 
+
 <details>
   <summary>Github Stats</summary>
   
