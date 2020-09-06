@@ -2,6 +2,8 @@
 
 ### I code Minecraft cheats because I'm retarded. 
 
+I put a lot of random projects that I have worked on in here.
+
 <details>
   <summary>Github Stats</summary>
   
